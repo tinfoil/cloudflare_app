@@ -1,6 +1,6 @@
 {
     "name":"Tinfoil Security Website Security Scanning",
-    "description": "Tinfoil Security provides simple security with a goal of ease-of-use and automation. Once a scan has begun, we crawl your website looking for any potential place a user can input data (links, forms, cookies, headers, etc.) and then go through each place we find and input our own data to try to exploit vulnerabilities. If we find something, we report back to you exactly what we found, where we found it, how we found it, give you the ability to replay the attack, and then give you a step-by-step how to fix, tailored to your software stack, so you can actually go in and fix the vulnerability simply and reliably.",
+    "description": "Tinfoil Security provides simple security with a goal of ease-of-use and automation.",
     "version": "1.0",
     "category": "security monitoring",
     "account": {
