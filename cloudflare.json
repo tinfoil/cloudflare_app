@@ -1,7 +1,7 @@
 {
     "name":"Tinfoil Security Website Security Scanning",
     "description": "Tinfoil Security provides simple security with a goal of ease-of-use and automation.",
-    "version": "1.1",
+    "version": "1.2",
     "category": "security monitoring",
     "account": {
         "callback_url": "https://www.tinfoilsecurity.com/cloudflare",
@@ -46,7 +46,7 @@
                 "./public/images/digestible-data.png",
                 "./public/images/how-it-works.png",
                 "./public/images/what-it-finds.png",
-                "./public/images/calendar-color.png.png",
+                "./public/images/calendar-color.png",
                 "./public/images/pig-color.png",
                 "./public/images/safe-color.png"
             ]
