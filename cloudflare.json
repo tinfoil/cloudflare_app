@@ -1,0 +1,52 @@
+{
+    "name":"Tinfoil Security Website Security Scanning",
+    "description": "Tinfoil Security provides simple security with a goal of ease-of-use and automation. Once a scan has begun, we crawl your website looking for any potential place a user can input data (links, forms, cookies, headers, etc.) and then go through each place we find and input our own data to try to exploit vulnerabilities. If we find something, we report back to you exactly what we found, where we found it, how we found it, give you the ability to replay the attack, and then give you a step-by-step how to fix, tailored to your software stack, so you can actually go in and fix the vulnerability simply and reliably.",
+    "version": "1.0",
+    "category": "security monitoring",
+    "account": {
+        "callback_url": "https://www.tinfoilsecurity.com/cloudflare",
+        "user_fields": ["user_email"]
+    },
+    "billing": {
+        "type": "domain",
+        "plans": [
+            {
+                "name" : "Limited",
+                "price": "0.00"
+            },
+            {
+                "name" : "Starter",
+                "price" : "59.00"
+            },
+            {
+                "name" : "Standard",
+                "price" : "199.00"
+            },
+            {
+                "name" : "All Access",
+                "price" : "799.00"
+            }
+        ]
+    },
+    "config": {
+        "details": {
+            "Language": "English",
+            "Restrictions": "None",
+            "TOS": "https://www.tinfoilsecurity.com/terms",
+            "has_js": false
+        },
+        "assets": {
+            "logos": {
+                "200px": "./public/images/logo-200.png",
+                "132px": "./public/images/logo-132.png"
+            },
+            "detail_page": [
+                "./public/images/actionable-results.png",
+                "./public/images/clean-tech-info.png",
+                "./public/images/digestible-data.png",
+                "./public/images/how-it-works.png",
+                "./public/images/what-it-finds.png"
+            ]
+        }
+    }
+}
