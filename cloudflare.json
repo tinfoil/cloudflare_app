@@ -45,7 +45,10 @@
                 "./public/images/clean-tech-info.png",
                 "./public/images/digestible-data.png",
                 "./public/images/how-it-works.png",
-                "./public/images/what-it-finds.png"
+                "./public/images/what-it-finds.png",
+                "./public/images/calendar-color.png.png",
+                "./public/images/pig-color.png",
+                "./public/images/safe-color.png"
             ]
         }
     }

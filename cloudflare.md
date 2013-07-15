@@ -1,6 +1,3 @@
-# Tinfoil Security
-## Website Security Scanning That Is Simple, Affordable, and Proven
-
 ### How Does It Work?
 ![How Does It Work?](/images/apps/tinfoil_security_website_security_scanning/how-it-works.png)
 
