@@ -1,10 +1,10 @@
 {
     "name":"Tinfoil Security Website Security Scanning",
     "description": "Tinfoil Security provides simple security with a goal of ease-of-use and automation.",
-    "version": "1.2",
+    "version": "1.3",
     "category": "security monitoring",
     "account": {
-        "callback_url": "https://www.tinfoilsecurity.com/cloudflare",
+        "callback_url": "https://tinfoil-staging.herokuapp.com/cloudflare",
         "user_fields": ["user_email"]
     },
     "billing": {
