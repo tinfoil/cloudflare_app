@@ -1,10 +1,10 @@
 {
     "name":"Tinfoil Security",
     "description": "Tinfoil Security provides simple security with a goal of ease-of-use and automation.",
-    "version": "1.7",
+    "version": "0.1",
     "category": "security monitoring",
     "account": {
-        "callback_url": "https://tinfoil-staging.herokuapp.com/cloudflare",
+        "callback_url": "https://www.tinfoilsecurity.com/cloudflare",
         "user_fields": ["email"]
     },
     "billing": {
