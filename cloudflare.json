@@ -1,7 +1,7 @@
 {
     "name":"Tinfoil Security",
     "description": "Tinfoil Security provides simple security with a goal of ease-of-use and automation.",
-    "version": "0.1",
+    "version": "0.2",
     "category": "security monitoring",
     "account": {
         "callback_url": "https://www.tinfoilsecurity.com/cloudflare",
