@@ -1,7 +1,7 @@
 {
     "name":"Tinfoil Security",
     "description": "Tinfoil Security provides simple security with a goal of ease-of-use and automation.",
-    "version": "0.2",
+    "version": "0.3",
     "category": "security monitoring",
     "account": {
         "callback_url": "https://www.tinfoilsecurity.com/cloudflare",
@@ -48,8 +48,8 @@
                 "./public/images/digestible-data.png",
                 "./public/images/how-it-works.png",
                 "./public/images/what-it-finds.png",
-                "./public/images/calendar-color.png",
-                "./public/images/pig-color.png",
+                "./public/images/running-guy-color.png",
+                "./public/images/gears-color.png",
                 "./public/images/safe-color.png"
             ]
         }

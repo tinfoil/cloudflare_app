@@ -1,25 +1,25 @@
 ### How Does It Work?
-![How Does It Work?](/images/apps/tinfoil_security_website_security_scanning/how-it-works.png)
+![How Does It Work?](/images/apps/tinfoil_security/how-it-works.png)
 
 Our automated scan checks for vulnerabilities in every nook and cranny of your website. Using the same techniques as malicious hackers, we systematically test all the access points, giving you step-by-step instructions on how to eliminate any threat.
 
 ### What Does It Find?
-![What Does It Find?](/images/apps/tinfoil_security_website_security_scanning/what-it-finds.png)
+![What Does It Find?](/images/apps/tinfoil_security/what-it-finds.png)
 
-Our scan first checks your website for the OWASP Top 10 Web Application Security Risks. We then check your site for other known security holes. Since our scanner is constantly being updated, you can rest assured that you are protected against the latest threats.
+Our scan first checks your website for the OWASP Top 10 Web Application Security Risks. We then check your site for other known security holes. Since our scanner is constantly being updated, you can rest assured that you are protected against the latest threats. We regularly incorporate new tests and consistently score higher than any other scanner on open-source benchmarks.
 
 ### Clean Technical Info
-![Clean Technical Info](/images/apps/tinfoil_security_website_security_scanning/clean-tech-info.png)
+![Clean Technical Info](/images/apps/tinfoil_security/clean-tech-info.png)
 
 Security doesn't have to be difficult. We provide you with clean technical information so you can easily find each vulnerability and fix them quickly.
 
 ### Digestable Data
-![Digestable Data](/images/apps/tinfoil_security_website_security_scanning/digestible-data.png)
+![Digestable Data](/images/apps/tinfoil_security/digestible-data.png)
 
 We give you a clean overview of your website's security health and vulnerabilities. You shouldn't have to run analytics to understand our results.
 
 ### Actionable Results
-![Actionable Results](/images/apps/tinfoil_security_website_security_scanning/actionable-results.png)
+![Actionable Results](/images/apps/tinfoil_security/actionable-results.png)
 
 You already have a developer creating your site. Why shouldn't they also be able to secure it? We make it easy for any developer to secure your site.
 
@@ -27,14 +27,14 @@ You already have a developer creating your site. Why shouldn't they also be able
 #### Easy Setup
 Sign up and your CloudFlare domains are automatically verified and assigned a schedule to begin scanning.
 
-#### Recurring
-![Recurring](/images/apps/tinfoil_security_website_security_scanning/calendar-color.png)
-We routinely scan your site for vulnerabilities, alert you with what we find, and tell you how to fix it.
+#### Faster Security
+![Recurring](/images/apps/tinfoil_security/running-guy-color.png)
+Push security up the stack and empower developers to fix vulnerabilities.
 
-#### Affordable
-![Affordable](/images/apps/tinfoil_security_website_security_scanning/pig-color.png)
-For one low monthly fee, you get regular scans with actionable reports sent right to your inbox.
+#### Integrated
+![Affordable](/images/apps/tinfoil_security/gears-color.png)
+Integrate quickly into your DevOps lifecycle with CI and issue tracker integrations.
 
 #### Proven Record
-![Proven Record](/images/apps/tinfoil_security_website_security_scanning/safe-color.png)
-We've found over 120,000 vulnerabilities and counting.
+![Proven Record](/images/apps/tinfoil_security/safe-color.png)
+We've found over 430,000 vulnerabilities and counting. Our usable report makes it easy to fix them.
